@@ -1,1 +1,3 @@
-# Just a simple portfolio test project.
+# Nuxtolio
+
+A test project
