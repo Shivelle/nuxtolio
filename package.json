@@ -20,7 +20,7 @@
     "@babel/eslint-parser": "^7.18.2",
     "@nuxtjs/eslint-config": "^9.0.0",
     "@nuxtjs/eslint-module": "^4.1.0",
-    "@nuxtjs/stylelint-module": "^4.1.0",
+    "@nuxtjs/stylelint-module": "^5.1.0",
     "@nuxtjs/tailwindcss": "^5.1.2",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
