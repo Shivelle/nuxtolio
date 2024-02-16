@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.12.0",
-    "core-js": "^3.35.0",
+    "core-js": "^3.36.0",
     "nuxt": "^3.10.2"
   },
   "devDependencies": {
