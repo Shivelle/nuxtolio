@@ -1,3 +1,3 @@
 # Nuxtolio
 
-A test project
+Just a test project
