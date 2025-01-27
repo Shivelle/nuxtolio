@@ -14,7 +14,7 @@
   "dependencies": {
     "@nuxt/content": "^2.13.4",
     "core-js": "^3.39.0",
-    "nuxt": "^3.15.1"
+    "nuxt": "^3.15.3"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.25.9",
