@@ -28,7 +28,7 @@
     "eslint-plugin-vue": "^10.0.0",
     "postcss": "^8.4.49",
     "prettier": "^3.5.3",
-    "stylelint": "^16.18.0",
+    "stylelint": "^16.19.1",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-standard": "^37.0.0"
   }
