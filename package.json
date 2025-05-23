@@ -12,7 +12,7 @@
     "lint": "npm run lint:js && npm run lint:style"
   },
   "dependencies": {
-    "@nuxt/content": "^3.4.0",
+    "@nuxt/content": "^3.5.1",
     "core-js": "^3.41.0",
     "nuxt": "^3.17.4"
   },
